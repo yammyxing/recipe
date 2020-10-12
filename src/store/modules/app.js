@@ -5,7 +5,7 @@ export default {
   state() {
     return {
       isDevEnvironment: false,
-      siteURL: 'recept0r.com',
+      siteURL: 'yammyxing.top',
       menuOpen: false,
       toastMessage: null,
       functions: {

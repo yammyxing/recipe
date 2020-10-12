@@ -26,7 +26,7 @@ module.exports = {
     manifestOptions: {
       name: 'recept0r',
       short_name: 'recept0r',
-      start_url: 'https://recept0r.com',
+      start_url: 'http://yammyxing.top',
       display: 'standalone',
       theme_color: '#FFFFFF',
       icons: [
